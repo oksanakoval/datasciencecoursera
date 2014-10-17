@@ -1,1 +1,1 @@
-This is a test file for a pull command
+This is a ZLIN file for a pull command
